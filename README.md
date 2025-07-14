@@ -1,4 +1,4 @@
-# thanhphanle.github.io
+# tlephan.github.io
 This is my profile that was made in static HTML, CSS, and javascript. I want to save my journey in Software Development on this site.
 
 This project is using resources such as:
@@ -8,4 +8,4 @@ This project is using resources such as:
 
 Color palette: [Metro UI](https://www.color-hex.com/color-palette/700)
 
-Thanks and hosted by GitHub Pages: https://thanhphanle.github.io
+Thanks and hosted by GitHub Pages: https://tlephan.github.io
